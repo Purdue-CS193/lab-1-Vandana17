@@ -1,20 +1,10 @@
 ## Welcome to GitHub Pages
+Vandana Prabhu's first CS 193 Lab
 
-This will be the first website that you will create
-### Personality
-
-Personality is a section where you can enter information about yourself
-
-Syntax highlighted code block
-
-# Quality 1
-## Quality 2
-### HQuality 3
 
 - Favorites
-- List
-
-1. Likes and Dislikes
-2. List
+1. I love the Honors College classes and dorms
+2. The CS180 Java programs for homework seem interesting
+3. There is a club for almost everything
 
 /**This website is one that you will create, and will tell the whole world about who you are
